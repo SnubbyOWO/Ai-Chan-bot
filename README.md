@@ -1,5 +1,5 @@
 # Waifu Speech Discord Bot
-This is a fork of Waifu Speech but instead uses discord bot to use TTS
+This is a fork of Waifu Speech but instead uses discord bot to use TTS. If you do use this/use as a reference please give credit to me and mirchuigawa (original creater)
 
 https://user-images.githubusercontent.com/87741849/227775080-acfd8b4b-c522-49e1-9e8c-d3ebbab3de4c.mp4
 
