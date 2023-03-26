@@ -1,12 +1,13 @@
-# Waifu Speech
-Waifu Speech is a program for changing voices into female anime voices.
+# Waifu Speech Discord Bot
+This is a fork of Waifu Speech but instead uses discord bot to use TTS
 
-### How does Waifu Speech work
-<img src="/assets/images/structure.png" />
-If you look at the diagram there are 4 processes in this program. Because Voicevox only supports Japanese, it needs to change the text of the audio that we previously processed into Japanese
+https://user-images.githubusercontent.com/87741849/227775080-acfd8b4b-c522-49e1-9e8c-d3ebbab3de4c.mp4
+
+### How does Waifu Speech discord bot work?
+It uses Discord.py and Voicevox to use the bot and read messages of the user then to create the voice/TTS. 
 
 ### How do I run this program
-To run this very simple program, you need Python version 3.7++ because this program uses Python, so make sure you have Python installed on your computer.
+To run this you need to install the requirments, you need Python version 3.7++, so make sure you have Python installed on your computer.
 
 #### Install modules
 - Windows, Linux, Mac
@@ -23,7 +24,7 @@ or
 ``` konsole
 python main.py
 ```
-(I'm using the first method because im using python 3.xx)
+
 
 ### License
 [see: LICENSE](/LICENSE)
