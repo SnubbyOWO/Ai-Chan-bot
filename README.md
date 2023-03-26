@@ -5,8 +5,6 @@ Ai-Chan is a Discord bot that offers gets the active users input and uses Voicev
 
 The bot is programmed to carry out certain activities including text translation and text to speech generation. These operations are carried out using a variety of APIs and libraries, including the Voicevox API for TTS audio and the Google Cloud Translate API for translation.
 
-Try it or don't cuz idk if it might crash 💀 https://tinyurl.com/invaichan
-
 https://user-images.githubusercontent.com/87741849/227775080-acfd8b4b-c522-49e1-9e8c-d3ebbab3de4c.mp4
 
 ### How does Waifu Speech discord bot work?
