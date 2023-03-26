@@ -1,5 +1,9 @@
-# Waifu Speech Discord Bot
+# Ai-Chan Discord Bot
 This is a fork of Waifu Speech but instead uses discord bot to use TTS. If you do use this/use as a reference please give credit to me and mirchuigawa (original creater)
+
+Ai-Chan is a Discord bot that offers gets the active users input and uses Voicevox API to create a TTS audio clip.
+
+The bot is programmed to carry out certain activities including text translation and text to speech generation. These operations are carried out using a variety of APIs and libraries, including the Voicevox API for TTS audio and the Google Cloud Translate API for translation.
 
 https://user-images.githubusercontent.com/87741849/227775080-acfd8b4b-c522-49e1-9e8c-d3ebbab3de4c.mp4
 
