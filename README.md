@@ -5,7 +5,28 @@ Ai-Chan is a Discord bot that offers gets the active users input and uses Voicev
 
 The bot is programmed to carry out certain activities including text translation and text to speech generation. These operations are carried out using a variety of APIs and libraries, including the Voicevox API for TTS audio and the Google Cloud Translate API for translation.
 
+It will also message IF there is a error with something, such as a audio making clip but not all the time as if you dont put a high proccessing time number the bot will a .WAV file that has nothing and is 0 bytes
+
+# Ai-Chan Discord Bot Commands
+
+``` konsole
+!about - about the bot
+
+!commands - list of commands
+
+!start - start the AI generation
+```
+
+# Video/Audio
+
 https://user-images.githubusercontent.com/87741849/227775080-acfd8b4b-c522-49e1-9e8c-d3ebbab3de4c.mp4
+
+Another Example:
+
+https://user-images.githubusercontent.com/87741849/228068567-8f26d2c7-3c21-4a3f-bb55-6511d4b3f73c.mov
+The text: 
+
+おい！ 私はスナブです、またはあなたは私をスナブと呼ぶことができますが、私は開発者であり、私はコーディングするのが大好きです！ とにかく私は跳ね返らなければなりません！ ええ〜？ どうしたの？ なんてこった？ ええ、私はアニメの女の子として自分自身を置きました。なぜあなたは知らないのですか？ ちょっとかわいい〜。
 
 ### How does Waifu Speech discord bot work?
 It uses Discord.py and Voicevox to use the bot and read messages of the user then to create the voice/TTS. 
@@ -22,13 +43,17 @@ pip install -r requirements.txt
 
 If already installed
 ``` konsole
-python3 main.py
+python3 bot.py
 ```
 or
 ``` konsole
-python main.py
+python bot.py
 ```
-
+or again,
+``` konsole
+py bot.py
+```
+There is a changed main.py file as well that instead of using a audio file like the original you can just type it instead. So it could also just be a generator.
 
 ### License
 [see: LICENSE](/LICENSE)
