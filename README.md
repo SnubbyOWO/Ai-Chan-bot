@@ -25,7 +25,9 @@ Another Example:
 
 https://user-images.githubusercontent.com/87741849/228070145-4054d60e-ecc1-4918-896c-131f50f14fe2.mp4
 
-The text: 
+The text:
+
+Heya! I am Snubby, or you can call me Snubs but im a developer and i love to code! Hahaha anyways i have to bounce! Eh? Whats the matter? Oh the voice? Yeah i put my self as a anime girl because why not you know? Kinda cute.
 
 おい！ 私はスナブです、またはあなたは私をスナブと呼ぶことができますが、私は開発者であり、私はコーディングするのが大好きです！ とにかく私は跳ね返らなければなりません！ ええ〜？ どうしたの？ なんてこった？ ええ、私はアニメの女の子として自分自身を置きました。なぜあなたは知らないのですか？ ちょっとかわいい〜。
 
